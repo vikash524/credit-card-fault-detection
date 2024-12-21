@@ -115,7 +115,8 @@ Here's a possible visual representation of the pipeline using Lucidchart:
 5. **Prediction**
 6. **Real-Time Deployment (Flask API)**
 
-![Pipeline Example](https://lucidchart.com/your-diagram-link) *(Add actual diagram URL here)*
+![Pipeline Example](![240520150-361e6cee-1232-4aa2-9db2-e1b6b3ff9be9](https://github.com/user-attachments/assets/7d747379-2eac-468b-a583-0dc1d1ed7e62)
+)
 
 ---
 
